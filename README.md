@@ -38,5 +38,5 @@ YOUR_GEMINI_API_KEY/ WEATHER_API_KEY/ NEWS_API_KEY = "your_api_key"   # Replace 
 
 Install the required modules using:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 
