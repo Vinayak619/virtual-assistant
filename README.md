@@ -26,10 +26,6 @@
 ## 📦 Requirements
 
 Install dependencies:
-
-```bash
-pip install -r requirements.txt
-
 This project uses several free APIs. Before running the assistant, you need to generate the following keys:
 
 Feature	API Provider	Website
@@ -39,3 +35,8 @@ Feature	API Provider	Website
 
 Once you sign up and generate your API keys, open the relevant .py files (e.g., weather.py, news.py, ai_chat.py) and replace the string:
 YOUR_GEMINI_API_KEY/ WEATHER_API_KEY/ NEWS_API_KEY = "your_api_key"   # Replace this with your actual API key
+
+Install the required modules using:
+```bash
+pip install -r requirements.txt
+
